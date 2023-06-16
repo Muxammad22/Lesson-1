@@ -1,0 +1,54 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+
+
+.header {
+display: flex;
+justify-content: space-between;
+}
+
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.bg-header {
+    background: #2F2F2F;
+}
+
+
+.logo h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700; 
+font-size: 30.7112px;
+line-height: 130;
+/* or 40px */
+color: white;
+ text-transform: capitalize;
+}
+.logo a {
+    text-decoration: none;
+}
+.navbar ul {
+display: flex;
+gap: 40px;
+list-style: none;
+}
+.navbar ul a {
+text-decoration: none;
+color: white
+}
+
+
+
+
+
+
+
+
+
